@@ -7,7 +7,6 @@ This program is divided into the following parts:
 - Analyze the ETF portfolio
 - Deploy the notebook as a web application
 
-Here are the images of the web application appearence:<img width="1440" alt="Screen Shot 2022-08-08 at 3 37 26 PM" src="https://user-images.githubusercontent.com/107383254/183502285-ff121a66-a0fd-453a-af26-111dff7190ca.png">
+Here are the images of the web application appearence:<img width="1009" alt="Screen Shot 2022-08-08 at 3 52 51 PM" src="https://user-images.githubusercontent.com/107383254/183502646-dd8f81a4-160c-49e1-864d-0b87917dac65.png">
 
-
-<img width="1440" alt="Screen Shot 2022-08-08 at 3 37 37 PM" src="https://user-images.githubusercontent.com/107383254/183502311-1e0920d6-c26e-49c1-aed9-dd53f63f4b3f.png">
+<img width="1011" alt="Screen Shot 2022-08-08 at 3 52 37 PM" src="https://user-images.githubusercontent.com/107383254/183502659-0b0a0436-f180-4a0c-8d1e-f9b6e93ec749.png">
