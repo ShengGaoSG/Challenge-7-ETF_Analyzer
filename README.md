@@ -26,7 +26,9 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-Here are the images of the web application appearence:<img width="1009" alt="Screen Shot 2022-08-08 at 3 52 51 PM" src="https://user-images.githubusercontent.com/107383254/183502646-dd8f81a4-160c-49e1-864d-0b87917dac65.png">
+Here are the images of the web application appearence:
+<img width="1276" alt="Screen Shot 2022-08-25 at 12 51 13 PM" src="https://user-images.githubusercontent.com/107383254/186724350-2351b984-8e4b-45af-8f37-82765d1224ff.png">
+
 
 <img width="1011" alt="Screen Shot 2022-08-08 at 3 52 37 PM" src="https://user-images.githubusercontent.com/107383254/183502659-0b0a0436-f180-4a0c-8d1e-f9b6e93ec749.png">
 
