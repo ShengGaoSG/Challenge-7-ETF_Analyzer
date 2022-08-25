@@ -1,4 +1,4 @@
-# Challenge-7-ETF_Analyzer
+# ETF_Analyzer
 ---
 In this Challenge, I am building a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF. I'll complete the analysis of a fintech ETF that consists of four stocks: GOST, GS, PYPL, and SQ. Each stock has its own table in the etf.db database.
 
