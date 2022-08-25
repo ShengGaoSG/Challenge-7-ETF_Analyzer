@@ -8,42 +8,27 @@ This application program is divided into the following parts:
 - Analyze the ETF portfolio
 - Deploy the notebook as a web application
 
-Here are the images of the web application appearence:<img width="1009" alt="Screen Shot 2022-08-08 at 3 52 51 PM" src="https://user-images.githubusercontent.com/107383254/183502646-dd8f81a4-160c-49e1-864d-0b87917dac65.png">
-
-<img width="1011" alt="Screen Shot 2022-08-08 at 3 52 37 PM" src="https://user-images.githubusercontent.com/107383254/183502659-0b0a0436-f180-4a0c-8d1e-f9b6e93ec749.png">
-
 ## Technologies
 
-This project leverages python 3.7 with the following packages:
+This project leverages python 3.7 with SQLAlchemy and Voilà.
 
-* [fire](https://github.com/google/python-fire) - For the command line interface, help page, and entry-point.
-
-* [questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
-
----
 
 ## Installation Guide
 
 Before running the application first install the following dependencies.
 
 ```python
-  pip install fire
-  pip install questionary
+  pip install SQLAlchemy
+  conda install -c conda-forge voila
 ```
 
 ---
 
 ## Usage
 
-To use the loan qualifier application simply clone the repository and run the **app.py** with:
+Here are the images of the web application appearence:<img width="1009" alt="Screen Shot 2022-08-08 at 3 52 51 PM" src="https://user-images.githubusercontent.com/107383254/183502646-dd8f81a4-160c-49e1-864d-0b87917dac65.png">
 
-```python
-python app.py
-```
-
-Upon launching the loan qualifier application you will be greeted with the following prompts.
-
-![Loan Qualifier Prompts](Images/loan_qalifier.png)
+<img width="1011" alt="Screen Shot 2022-08-08 at 3 52 37 PM" src="https://user-images.githubusercontent.com/107383254/183502659-0b0a0436-f180-4a0c-8d1e-f9b6e93ec749.png">
 
 ---
 
